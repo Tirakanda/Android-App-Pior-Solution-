@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1274e5f-2031-4b99-829e-e821b0a90cf3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="New_Device_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SmokeDetector" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dele</find>
+      <find>Mai</find>
+      <find>Generai</find>
+      <find>squareup</find>
+      <find>Ed</find>
+      <find>Mess</find>
+      <find>uploadImage</find>
+      <find>set</find>
+      <find>mip</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Program Files\SmokeDetector.jks" />
+    <option name="KEY_ALIAS" value="keystore" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Model/User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Adapter/MessageApter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_update_profile.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Message.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/UpdateProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Notification/FirebaseMessagingService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Model/Notification.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Adapter/RecycleView_Status.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/CRUD/Firebase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Showdevice.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/ShowGraph.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Home2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/updatedevice_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Model/DeviceDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/PostsBord.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Adapter/PostAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Updatedevice.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Status.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/MapsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/phonenumber_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Model/PhoneUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Adapter/PhoneRecyclerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/phone_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/PhoneNumberActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Home.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/detailapp_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/help_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/item_graph.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/firstpage_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/smokedetector/Register.java" />
+        <option valu
